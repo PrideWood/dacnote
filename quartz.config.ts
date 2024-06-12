@@ -8,8 +8,6 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    favicon: '/favicon.ico',
-    appleTouchIcon: '/apple-touch-icon.png',
     pageTitle: "Dacnote🖋",
     enableSPA: true,
     enablePopovers: true,
