@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: 👋 Welcome to Dacnote
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hello, I'm Wesley.
+This is a new site of my digital garden.
+I hope we can make it more and more beautiful.
